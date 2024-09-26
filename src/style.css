@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  background-image: url("https://as2.ftcdn.net/v2/jpg/01/28/98/53/1000_F_128985367_mNdX0b56w6OcgiyUDnZwukpK1bkpfWwI.jpg");
+  overflow: hidden;
+}
+
+player {
+  display: flex;
+  position: absolute;
+  font-size: 50px;
+  justify-content: center;
+  text-align: center;
+}
+.startbutton {
+  display: flex;
+  position: absolute;
+}
